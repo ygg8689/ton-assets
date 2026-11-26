@@ -1,0 +1,9 @@
+name: YTXCC
+symbol: YTXCC
+address: UQBHZUZwQUKGIW0RkOz6MN9gCFnX22N3jzdPmeDRItFo2-DA
+image: "https://example.com/logo.png"
+description: "YTXCC test token for simulation study"
+websites:
+  - "https://example.com"
+social:
+  - "https://t.me/xxx"
